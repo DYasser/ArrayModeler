@@ -1,2 +1,7 @@
 # ArrayModeler
-Impressive array modeler. Sort, reverse, calculates anything to this huge 2D array in the most optimal time possible.
+
+Impressive array modeler. Sort, reverse, calculates anything inputted in an optimal time.
+
+## How to run
+
+To get started you can `git clone  https://github.com/DYasser/Diamond.git` and have `Java` installed and initialized. You can run the file then by runing the main class using an IDE.
